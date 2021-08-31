@@ -20,6 +20,7 @@ balıkesir --> 155 -->  i̇stanbul --> 130 -->  eskişehir --> 120 -->  konya --
 total cost:  590
 ...
 
+---
 You can see the map below and you can see the csv file of the map in data folder.
 
 <img src="/resources/map.png?raw=true"/>
