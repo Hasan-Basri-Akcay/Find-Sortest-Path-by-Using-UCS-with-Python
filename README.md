@@ -5,9 +5,10 @@ Example below..
 Press q for exit.
 Write the file path 
 data/cities.csv
----
+
 ---
 cities:  ['Kayseri', 'İzmir', 'Adana', 'Diyarbakır', 'Muğla', 'Balıkesir', 'Konya', 'Trabzon', 'Antalya', 'Rize', 'Eskişehir', 'Ankara', 'İstanbul', 'Samsun', 'Çanakkale']
+
 ---
 Start:  
 Balıkesir
